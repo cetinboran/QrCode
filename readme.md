@@ -10,6 +10,7 @@ Usage: qr_generate [Options
     Developed by Çetin Boran Mesüm -> (Github: cetinboran)
 
 Options:
+
     -v  Set the size of QR code.
     -s  Set the string for te QR code.
     -n  Set the name of the file you want to save with the extension
