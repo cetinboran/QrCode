@@ -15,6 +15,6 @@ Usage: qr_generate [Options]
 Options:
 
     -v  Set the size of QR code.
-    -s  Set the string for te QR code.
+    -s  Set the string for the QR code.
     -n  Set the name of the file you want to save with the extension
     -h, --help
